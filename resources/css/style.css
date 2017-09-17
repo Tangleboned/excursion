@@ -1,10 +1,10 @@
 html {
   background-color: black;
   text-align: center;
+  font-family: Verdana;
 }
 h1 {
   color: white;
-  font-family: Verdana;
   font-weight: normal;
   text-align: center;
   font-size: 50px;
@@ -13,4 +13,20 @@ h1 {
 .cta {
   color: aquamarine;
   font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h3 {
+  color: grey;
+  font-size: 21px;
+}
+
+.footer {
+  text-align: right;
+  color: grey;
 }
